@@ -259,6 +259,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 197ee9b6-d90f-4e8d-8049-c35477ec69bf,chaitea.social,available,11.99,,86,3,8,name.com,,
 19d8390a-ee8b-411a-a749-f41b2eb2f429,sirens.social,available,11.99,,48,11,6,name.com,,
 19e8aa1c-79b0-43b3-afb6-b2e234569219,movein.social,available,11.99,,70,9,7,name.com,,
+1a145273-a099-40e0-8742-64436af5c762,seek.social,resell,,,76,31,4,"Xiamen ChinaSource Internet Service Co., Ltd",04/03/2026 15:15,04/03/2027 15:15
 1a187a36-9409-457b-8f2f-fa3dc89aa3cb,backwhen.social,available,11.99,,54,3,9,name.com,,
 1a419df3-0e07-4824-b37b-433c416563c1,sterilization.social,available,11.99,,66,3,13,name.com,,
 1a82dace-33ed-4a31-b04a-cb60a341d14f,returns.social,available,11.99,,72,16,7,name.com,,
@@ -405,7 +406,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 272f24b8-9958-4e0c-a23e-fecbc50ec69e,generallyspeaking.social,available,11.99,,58,2,18,name.com,,
 272fe953-23d8-491f-8de4-8013b105db2f,privateparts.social,available,11.99,,61,3,13,name.com,,
 27337b8c-2a98-484a-8030-d41d596fb4cb,financeindustry.social,available,11.99,,44,1,16,name.com,,
-275b2641-e04f-410d-9c0a-558f0d32de54,mill.social,resell,,,65,20,4,"Spaceship, Inc.",12/02/2026 17:03,12/02/2027 17:03
+275b2641-e04f-410d-9c0a-558f0d32de54,mill.social,resell,,,65,22,4,"Spaceship, Inc.",12/02/2026 17:03,12/02/2027 17:03
 276aed4e-75d3-43a8-9749-b248fb73e2bf,comeonover.social,available,11.99,,78,2,12,name.com,,
 2773bef2-b81d-42fa-9ed9-8b08f69109d9,pills.social,available,11.99,,56,15,5,name.com,,
 278c2dda-1687-4a00-878a-79b654089cd0,teeheehee.social,available,11.99,,88,1,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d940d25-33a1-4808-beac-b1784cfd0f8a,onfile.social,available,11.99,,48,4,7,name.com,,
 5da9a004-871d-4209-8d4e-aeb3dbea469b,letthebuyerbeware.social,available,11.99,,67,0,20,name.com,,
 5daefc02-c786-4e77-9e30-b06c0e4c12a5,keepnote.social,available,11.99,,48,2,9,name.com,,
-5dcfdfcd-f749-4328-97e5-2618252b2b4d,manyandvaried.social,available,11.99,,46,1,15,name.com,,
