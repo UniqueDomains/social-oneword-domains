@@ -367,6 +367,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 238f257b-7c22-40f7-80f2-54280470d5b1,couldhavesworn.social,available,11.99,,44,0,16,name.com,,
 24016a06-a9a1-410d-8667-34d814cbc059,multipurpose.social,available,11.99,,54,4,13,name.com,,
 24296f68-a8bf-4e4f-990b-3eb7d61274f9,manysidedness.social,available,11.99,,64,1,14,name.com,,
+24481c09-5730-4dbd-a5fc-13e866e1cba5,sourcecode.social,available,11.99,,70,16,11,name.com,,
 24617682-2e09-4149-b300-3a6ee28742d6,DaffyDuck.social,available,55.98,,86,2,10,namecheap,,
 2461d22e-8655-485c-a025-d136f3a39761,flying.social,resell,,,82,25,6,"Sav.com, LLC - 47",19/02/2026 15:15,19/02/2027 15:15
 2461f9c2-b2f0-481e-b9ea-0a42c2d13e0c,notifies.social,available,11.99,,50,3,8,name.com,,
@@ -660,7 +661,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3f372b8c-5f6f-496c-aea6-8f089ae58806,invogue.social,available,11.99,,70,6,8,name.com,,
 3f387a0f-3ff5-42ff-ba7a-be3de51500fa,likeitorleaveit.social,available,11.99,,44,2,19,name.com,,
 3f3ffb78-95eb-4e09-b93f-7f397de2de62,razorburn.social,available,11.99,,60,1,10,name.com,,
-3f5e38e3-ce45-4e3e-bd24-14d00ce146d4,sexwork.social,available,11.99,,68,8,8,name.com,,
+3f5e38e3-ce45-4e3e-bd24-14d00ce146d4,sexwork.social,available,11.99,,68,9,8,name.com,,
 3f62ee65-2344-4fa0-ab6e-9a7165fa954e,manycoloured.social,available,11.99,,60,1,13,name.com,,
 3f79b341-097b-4eff-8123-686a5a2ce9f3,tospare.social,available,11.99,,54,0,8,name.com,,
 3f88eb06-bcfa-4aef-9231-eee672f47bac,tourists.social,available,11.99,,58,7,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d82dc0f-1e10-4823-a808-f6976dcd14d1,advantages.social,available,11.99,,64,5,10,name.com,,
 5d940d25-33a1-4808-beac-b1784cfd0f8a,onfile.social,available,11.99,,48,4,7,name.com,,
 5da9a004-871d-4209-8d4e-aeb3dbea469b,letthebuyerbeware.social,available,11.99,,67,0,20,name.com,,
-5daefc02-c786-4e77-9e30-b06c0e4c12a5,keepnote.social,available,11.99,,48,2,9,name.com,,
