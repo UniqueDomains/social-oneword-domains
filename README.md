@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .social one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,423 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,423 domains · **Median ask:** $21.03 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,423 domains · **Median ask:** $21.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/social`  
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | WiFi.social         | premium   | $138.60   | $138.60       | 83             | 37     | 5      | namecheap                                                 |
 | deeplearning.social | available | $11.99    | —             | 74             | 23     | 13     | name.com                                                  |
 | matcha.social       | resell    | —         | —             | 86             | 39     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| howto.social        | premium   | $82.50    | —             | 76             | 35     | 6      | name.com                                                  |
+| howto.social        | premium   | $82.50    | —             | 76             | 33     | 6      | name.com                                                  |
 | signs.social        | available | $11.99    | —             | 64             | 22     | 5      | name.com                                                  |
 | koala.social        | resell    | —         | —             | 80             | 31     | 5      | Sav.com, LLC - 11                                         |
 | coupons.social      | premium   | $118.80   | $118.80       | 52             | 24     | 7      | namesilo                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
