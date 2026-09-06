@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .social one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,847 domains · **Median ask:** $14.90 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/social`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| die.social  | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
-| bug.social  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 24                                   |
-| ana.social  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                            |
-| icu.social  | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
-| fat.social  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                         |
-| ted.social  | premium   | $39       | $39           | high           | low    | 3      | namecheap                                           |
-| nun.social  | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
-| for.social  | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| grey.social | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                            |
-| rip.social  | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
-| hug.social  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 19                                   |
-| kiev.social | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
-| sep.social  | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
-| man.social  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 16                                   |
-| lake.social | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                            |
-| xvi.social  | available | $11.99    | $50.99        | medium         | low    | 3      | name.com                                            |
-| mix.social  | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                                     |
-| long.social | premium   | $242      | $242          | high           | low    | 4      | namesilo                                            |
-| alky.social | available | $3.98     | $55.98        | low            | low    | 4      | namecheap                                           |
-| out.social  | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| out.social    | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| period.social | available | $11.99    | —             | high           | low    | 6      | name.com                                            |
+| count.social  | available | $11.99    | —             | high           | low    | 5      | name.com                                            |
+| rear.social   | available | $11.99    | —             | high           | low    | 4      | name.com                                            |
+| die.social    | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
+| bug.social    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 24                                   |
+| ana.social    | premium   | $242      | $242          | high           | low    | 3      | namesilo                                            |
+| icu.social    | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
+| fat.social    | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                         |
+| ted.social    | premium   | $39       | $39           | high           | low    | 3      | namecheap                                           |
+| nun.social    | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
+| for.social    | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| grey.social   | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                            |
+| rip.social    | available | $11.99    | —             | medium         | low    | 3      | name.com                                            |
+| hug.social    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 19                                   |
+| kiev.social   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
+| sep.social    | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
+| man.social    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 16                                   |
+| lake.social   | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                            |
+| xvi.social    | available | $11.99    | $50.99        | medium         | low    | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
