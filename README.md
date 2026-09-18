@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .social one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,182 domains · **Median ask:** $12.85 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/social`
 **Best for:** founders, investors, studios
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
