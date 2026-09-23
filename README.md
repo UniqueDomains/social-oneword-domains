@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .social one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,562 domains · **Median ask:** $12.34 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/social`
 **Best for:** founders, investors, studios
 
@@ -77,12 +77,12 @@ print(df.head())
 | man.social  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 16                                   |
 | kiev.social | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
 | sep.social  | available | $11.99    | —             | high           | low    | 3      | name.com                                            |
-| mix.social  | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                                     |
+| mix.social  | resell    | —         | —             | low            | low    | 3      | NameCheap, Inc.                                     |
 | lake.social | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                            |
-| xvi.social  | available | $11.99    | $50.99        | medium         | low    | 3      | name.com                                            |
+| alky.social | available | $3.98     | $55.98        | low            | low    | 4      | namecheap                                           |
 | out.social  | resell    | —         | —             | medium         | low    | 3      | DNSPod, Inc.                                        |
 | long.social | premium   | $242      | $242          | high           | low    | 4      | namesilo                                            |
-| alky.social | available | $3.98     | $55.98        | low            | low    | 4      | namecheap                                           |
+| arse.social | available | $3.98     | $55.98        | low            | low    | 4      | namecheap                                           |
 | barn.social | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 27                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOCIAL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
