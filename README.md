@@ -1,10 +1,10 @@
-# Available .SOCIAL One-Word Domains (19,625)
+# Available .SOCIAL One-Word Domains (20,060)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C625%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C060%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .social one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,625 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,060 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,625 domains · **Median ask:** $17.62 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 20,060 domains · **Median ask:** $17.77 · **High-demand under $2,500:** 3
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/social`
@@ -69,20 +69,20 @@ print(df.head())
 | car.social   | premium   | $520      | $520          | high           | medium | 3      | namecheap                                    |
 | gel.social   | available | $9.99     | $41.49        | high           | low    | 3      | namesilo                                     |
 | jam.social   | resell    | —         | —             | high           | medium | 3      | Squarespace Domains II LLC                   |
-| dis.social   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| ive.social   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
-| too.social   | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                 |
 | inn.social   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| lxv.social   | available | $3.98     | $55.98        | medium         | low    | 3      | namecheap                                    |
-| bold.social  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                  |
+| gpa.social   | available | $9.50     | —             | high           | low    | 3      | unstoppable                                  |
+| too.social   | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                 |
 | mum.social   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| qat.social   | available | $9.99     | $41.49        | medium         | low    | 3      | namesilo                                     |
-| cash.social  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                  |
+| ina.social   | available | $3.98     | $55.98        | high           | low    | 3      | namecheap                                    |
+| bold.social  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                  |
 | zhu.social   | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship                                    |
-| xci.social   | available | $3.98     | $55.98        | medium         | low    | 3      | namecheap                                    |
-| drop.social  | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                   |
+| ive.social   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| cash.social  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                  |
 | cope.social  | premium   | $128.70   | $128.70       | high           | low    | 4      | namecheap                                    |
-| yid.social   | available | $9.99     | $41.49        | medium         | low    | 3      | namesilo                                     |
+| lxv.social   | available | $3.98     | $55.98        | medium         | low    | 3      | namecheap                                    |
+| drop.social  | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC                   |
+| firm.social  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                     |
+| nmr.social   | available | $3.31     | $33.32        | high           | low    | 3      | spaceship                                    |
 | dual.social  | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,625 live domains                        |
+| 1,000-row public sample | 20,060 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
